@@ -33,7 +33,7 @@ I build and maintain [15+ apps](https://apps.apple.com/us/developer/aryaman-shar
 | **Commuter Bay Area** | Real-time transit tracking for Bay Area public transit | iOS |
 | **Pulse** | Website uptime monitoring | iOS |
 | **Pickleball Score Tracker** | Quick scoring & live sharing | iOS, watchOS |
-| **Fast Reply** | Message templates for quick responses | iOS |
+| [**Fast Reply**](http://fastreplyapp.com/) | Message templates for quick responses | iOS |
 | **Cookie Blocker** | Privacy protection for Safari | iOS, macOS |
 | **Coffee Brew Ratio Calculator** | The ultimate brewing companion | iOS, macOS |
 | **Walking Routes** | Discover new walking routes anytime | iOS |
